@@ -5,19 +5,19 @@
   
   <div>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/psp515/IntorductionToCPP" alt="last update" />
+      <img src="https://img.shields.io/github/last-commit/psp515/IntroductionToCPP" alt="last update" />
     </a>
-    <a href="https://github.com/psp515/IntorductionToCPP/network/members">
-      <img src="https://img.shields.io/github/forks/psp515/IntorductionToCPP" alt="forks" />
+    <a href="https://github.com/psp515/IntroductionToCPP/network/members">
+      <img src="https://img.shields.io/github/forks/psp515/IntroductionToCPP" alt="forks" />
     </a>
-    <a href="https://github.com/psp515/IntorductionToCPP/stargazers">
-      <img src="https://img.shields.io/github/stars/psp515/IntorductionToCPP" alt="stars" />
+    <a href="https://github.com/psp515/IntroductionToCPP/stargazers">
+      <img src="https://img.shields.io/github/stars/psp515/IntroductionToCPP" alt="stars" />
     </a>
-    <a href="https://github.com/psp515/IntorductionToCPP/issues/">
-      <img src="https://img.shields.io/github/issues/psp515/IntorductionToCPP" alt="open issues" />
+    <a href="https://github.com/psp515/IntroductionToCPP/issues/">
+      <img src="https://img.shields.io/github/issues/psp515/IntroductionToCPP" alt="open issues" />
     </a>
-    <a href="https://github.com/psp515/IntorductionToCPP/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/psp515/IntorductionToCPP" alt="license" />
+    <a href="https://github.com/psp515/IntroductionToCPP/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/psp515/IntroductionToCPP" alt="license" />
     </a>
   </div>
 </div>  
