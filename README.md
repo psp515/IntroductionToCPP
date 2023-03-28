@@ -32,8 +32,9 @@ Topics covered:
 - constructors
 - templates
 - lambda expressions
-- Inheritance and Polymorphism in C++
-- Exceptions
+- inheritance and polymorphism in C++
+- exceptions
+- smart pointers
 - STL: iterators, containers...
 
 ### Built With
