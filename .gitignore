@@ -57,3 +57,98 @@ googlemock/
 docs/
 samples/
 googletest/
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# lab1
+lab1/doxyfiles/
+lab1/doxyfiles
+lab1/tests/lib
+lab1/cmake-build-debug
+lab1/main.cpp
+lab1/tests/cmake-build-debug
+.idea/
+
+# lab2
+lab2/trescPdf.pdf
+lab2/doxyfiles
+lab2/cmake-build-debug
+lab2/tests/cmake-build-debug
+lab2/main.cpp
+lab2/tests/lib
+
+# lab3
+lab3/main.cpp
+lab3/doxyfiles
+lab3/tests/lib
+lab3/tests/cmake-build-debug
+lab3/cmake-build-debug
+
+# lab4
+lab4/main.cpp
+lab4/doxyfiles
+lab4/cmake-build-debug
+lab4/tests/cmake-build-debug
+lab4/tests/lib
+
+# lab5
+lab5/cmake-build-debug
+lab5/tests/cmake-build-debug
+lab5/tests/lib
+lab5/main.cpp
+
+# lab6
+lab6/cmake-build-debug
+lab6/tests/cmake-build-debug
+lab6/tests/lib
+lab6/main.cpp
